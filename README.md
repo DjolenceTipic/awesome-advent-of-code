@@ -148,7 +148,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in C.*
 
-* [breakthatbass/advent_of_code2020](https://github.com/breakthatbass/advent_of_code2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--06--22-brightgreen)
+* [breakthatbass/advent_of_code2020](https://github.com/breakthatbass/advent_of_code2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--06--30-brightgreen)
 
 #### C#
 
@@ -452,7 +452,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 * [tejasbubane/adventofcode-2020](https://github.com/tejasbubane/adventofcode-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--05--23-brightgreen)
 * [youngtrashbag/adventofcode](https://github.com/youngtrashbag/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--04-orange)
 * [floatdrop/aoc](https://github.com/floatdrop/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--15-yellowgreen)
-* [fornwall/advent-of-code](https://github.com/fornwall/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--06--26-brightgreen)
+* [fornwall/advent-of-code](https://github.com/fornwall/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--07--04-brightgreen)
 
 #### Smalltalk
 
@@ -495,7 +495,7 @@ Read [CONTRIBUTING.md](/CONTRIBUTING.md) to learn how to add your own repos.
 
 *Solutions to AoC in TypeScript.*
 
-* [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--04--09-brightgreen)
+* [AlexAegis/advent-of-code](https://github.com/AlexAegis/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--06--28-brightgreen)
 * [GliderGeek/adventofcode20](https://github.com/GliderGeek/adventofcode20) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--20-green)
 * [RubenVerg/aoc2020](https://github.com/RubenVerg/aoc2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2021--05--09-brightgreen)
 * [adaamz/advent-of-code-2020](https://github.com/adaamz/advent-of-code-2020) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2020--12--24-green)
